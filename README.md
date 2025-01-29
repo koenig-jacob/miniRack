@@ -15,7 +15,7 @@ Documentation for my 10" (half-width) server rack build (no affiliate links)
 ### UPS (not decided/purchased yet, just notes for now)
 - PDU might be unnecessary if network switch has POE and devices are compatible. If all devices are compatible but don't have a POE switch, consider injector(s)
 - UPS options are still being discussed online, not many (if at all) 10" rackmount options besides DIY
-https://www.amazon.com/dp/B0CPN6QSBF?language=en_US&ref_=as_li_ss_tl
+https://a.co/d/aKKkhN9
 	- $119
 	- 300W/600VA PDU/UPS
 	- 2.3" (<1.5U)
